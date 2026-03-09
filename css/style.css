@@ -1,0 +1,10 @@
+/* Додаткові стилі, якщо буде потрібно щось змінити поза Tailwind */
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* Приховування елементів */
+.hidden {
+    display: none !important;
+}
